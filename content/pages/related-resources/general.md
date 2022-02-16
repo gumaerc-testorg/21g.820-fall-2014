@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: ef2d07cc-784d-b741-628c-f172efdebf78
 title: General
 uid: 34496f6d-91da-80c7-7e89-1181e2d8a583

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: ef2d07cc-784d-b741-628c-f172efdebf78
 title: Fado e Morna
 uid: 32f9f637-934e-f29c-1121-ae75a2654f2b
