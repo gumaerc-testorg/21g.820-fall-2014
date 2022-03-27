@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: General
 parent_type: CourseSection
+parent_uid: 34496f6d-91da-80c7-7e89-1181e2d8a583
 resourcetype: Document
 title: 'Tips for Oral Presentations: CI Classes'
 uid: d645a5ed-731b-0d0a-e98d-0a17ad536304
