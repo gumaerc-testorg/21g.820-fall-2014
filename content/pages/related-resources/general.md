@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of links to general resources that are relevant
+  to the class.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources
@@ -23,7 +25,7 @@ uid: 34496f6d-91da-80c7-7e89-1181e2d8a583
 
 [Conversa Brasileira](http://coerll.utexas.edu/brazilpod/cob/) - A compilation of brief video clips in which Brazilians talk about a variety of different topics.
 
-[Sites de Notícias em Português para Brasil e África (PDF)]({{< baseurl >}}/resources/mit21g_820f14_news_sites)
+{{% resource_link 3b323dcc-ba1c-02c5-8243-84441e0ac36d "Sites de Notícias em Português para Brasil e África (PDF)" %}}
 
 [Jornais em português](http://www.jornaiserevistas.com/)
 
@@ -37,9 +39,9 @@ uid: 34496f6d-91da-80c7-7e89-1181e2d8a583
 
 [Notícias de mundo lusófono](http://www.noticiaslusofonas.com/)
 
-[Tips for oral presentations (PDF)]({{< baseurl >}}/resources/mit21g_820f14_tips_pres)
+{{% resource_link d645a5ed-731b-0d0a-e98d-0a17ad536304 "Tips for oral presentations (PDF)" %}}
 
-[Simbolos para a correção das redaçõs (PDF)]({{< baseurl >}}/resources/mit21g_820f14_simbolos)
+{{% resource_link 857549c9-ea05-db1f-a4e6-30529f1063bf "Simbolos para a correção das redaçõs (PDF)" %}}
 
 [Revista _Carta Capital_](http://www.cartacapital.com.br/)
 

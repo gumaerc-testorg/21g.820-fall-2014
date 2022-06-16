@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a list of resources about the film Central Station.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Related Resources

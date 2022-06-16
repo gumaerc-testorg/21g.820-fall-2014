@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on policies for class preparation,
+  attendance, and participation, and descriptions of the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ Exercícios (Homework Sets)
 
 Students are expected to prepare the assigned materials throughout the semester. The exercises are required components of the course and are designed to reinforce the advanced grammar structure and vocabulary introduced in the textbook, as well as to improve reading comprehension.
 
-Remember that all assigned activities must be completed and **self-corrected** in order to receive full credit. All exercises can be found in the [textbook]({{< baseurl >}}/pages/calendar-and-readings).
+Remember that all assigned activities must be completed and **self-corrected** in order to receive full credit. All exercises can be found in the {{% resource_link 6a2c6179-75cf-b179-f595-8cd47525533f "textbook" %}}.
 
 ### {{< anchor "HW_1" >}}{{< /anchor >}}Homework Set 1
 

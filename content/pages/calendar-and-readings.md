@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, readings, and key
+  dates.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -115,7 +117,7 @@ Expressões idiomáticas (p. 12)
 {{< tdopen >}}
 
 
-[Assistir ao documentário _Preto contra branco_ para análise na próxima aula.]({{< baseurl >}}/pages/syllabus#Movie_1)
+{{% resource_link 7e3ff208-2612-37b4-59b5-8ed013fb5c38 "Assistir ao documentário _Preto contra branco_ para análise na próxima aula." "#Movie_1" %}}
 
 Trazer, pelo menos, duas perguntas sobre o filme para serem discutidas em grupo.
 
@@ -159,7 +161,7 @@ O Sistema Único de Saúde (SUS) do Brasil
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Entregar exercícios #1]({{< baseurl >}}/pages/assignments#HW_1)
+{{% resource_link a5bbe7e5-0f66-f74a-26fc-7b59875ac05a "Entregar exercícios #1" "#HW_1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +233,7 @@ Verbos derivados de ter e ver (pp. 52–53)
 {{< tdopen >}}
 
 
-[Assistir ao filme _Dois filhos de Francisco_ para a próxima aula]({{< baseurl >}}/pages/syllabus#Movie_1).
+{{% resource_link 7e3ff208-2612-37b4-59b5-8ed013fb5c38 "Assistir ao filme _Dois filhos de Francisco_ para a próxima aula" "#Movie_1" %}}.
 
 Trazer, pelo menos, duas perguntas sobre o filme para serem discutidas em grupo.
 
@@ -273,7 +275,7 @@ O Fado e o Samba
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Entregar os exercícios #2]({{< baseurl >}}/pages/assignments#HW_2)
+{{% resource_link a5bbe7e5-0f66-f74a-26fc-7b59875ac05a "Entregar os exercícios #2" "#HW_2" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +349,7 @@ Apresentações orais do ensaio #2
 {{< tdopen >}}
 
 
-[Assistir ao filme _Lixo extraordinario / Waste Land_ para a próxima aula]({{< baseurl >}}/pages/syllabus#Movie_1).
+{{% resource_link 7e3ff208-2612-37b4-59b5-8ed013fb5c38 "Assistir ao filme _Lixo extraordinario / Waste Land_ para a próxima aula" "#Movie_1" %}}.
 
 Trazer, pelo menos, duas perguntas sobre o filme para serem discutidas em grupo.
 
@@ -369,7 +371,7 @@ A reciclagem no Brasil
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Entregar os exercícios #3]({{< baseurl >}}/pages/assignments#HW_3)
+{{% resource_link a5bbe7e5-0f66-f74a-26fc-7b59875ac05a "Entregar os exercícios #3" "#HW_3" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -431,7 +433,7 @@ Plural dos diminutivos (p. 168)
 {{< tdopen >}}
 
 
-[Assistir ao _filme Central do Brasil_ para a próxima aula]({{< baseurl >}}/pages/syllabus#Movie_1).
+{{% resource_link 7e3ff208-2612-37b4-59b5-8ed013fb5c38 "Assistir ao _filme Central do Brasil_ para a próxima aula" "#Movie_1" %}}.
 
 Trazer, pelo menos, duas perguntas sobre o filme para serem discutidas em grupo.
 
@@ -473,7 +475,7 @@ Provérbios (pp. 178–82)
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Entregar os exercícios #4]({{< baseurl >}}/pages/assignments#HW_4)
+{{% resource_link a5bbe7e5-0f66-f74a-26fc-7b59875ac05a "Entregar os exercícios #4" "#HW_4" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
