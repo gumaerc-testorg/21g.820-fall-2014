@@ -1,30 +1,31 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 72fdf95b-a0da-075f-1a94-7af51fd620c7
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21G.820 Portuguese Advanced Conversation and Composition_ as it was taught by Dr. Nilma Dominique in Fall 2014.
 
 This is an advanced course that aims to build vocabulary competence and improve oral communication through the study and discussion of topics related to cultural aspects in Lusophone societies, primarily from current issues in Brazil. It is designed to give students extensive experience in Portuguese and emphasizes skill development and refinement in the area of critical reading and writing in Portuguese.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Improvements in grammar through systematic review
-*   Building and expanding vocabulary
-*   Practice with writing
-*   Gain an understanding of contemporary Brazil and other countries of the Lusophone world by examining literature, music and films in Portuguese
-*   Gain an understanding of race relations, national identity and inequality
+- Improvements in grammar through systematic review
+- Building and expanding vocabulary
+- Practice with writing
+- Gain an understanding of contemporary Brazil and other countries of the Lusophone world by examining literature, music and films in Portuguese
+- Gain an understanding of race relations, national identity and inequality
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -32,8 +33,8 @@ _21G.804 Portuguese IV_ or permission of instructor
 
 ### Requirements Satisfied
 
-*   GIR ![](/images/educator/icon-question-gir.png)
-*   HASS ![](/images/educator/icon-question-hass.png)
+- GIR ![](/images/educator/icon-question-gir.png)
+- HASS ![](/images/educator/icon-question-hass.png)
 
 ### Offered
 
@@ -41,8 +42,7 @@ Every spring and fall semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -52,10 +52,11 @@ The students' grades were based on the following activities:
 - 20% Exams
 - 20% Oral presentation
 
-Student Information
--------------------
+## Student Information
 
-![21G-820_stat-students.png]({{< resource_file 14583dfb-6877-2147-0633-741070423636 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -71,29 +72,26 @@ Enrollment is limited to 18 for pedagogical reasons. Preference is given to pre-
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class/Lecture
-----------------
+### In Class/Lecture
 
 Met 2 times per week for 1.5 hours per session; 27 sessions total; mandatory attendance.
 
 Students were required to:
 
-*   Participate in the class discussion each session
-*   Complete three in-class quizzes
-*   Present their research to the class
+- Participate in the class discussion each session
+- Complete three in-class quizzes
+- Present their research to the class
 
-Out of Class
-------------
+### Out of Class
 
 Students were required to:
 
-*   Watch four films outside of class, prior to class discussions
-*   Prepare for the upcoming class by reading what was assigned and thinking of questions and comments
-*   Complete five sets of exercises
-*   Write three short essays
-*   Prepare for their oral presentation
+- Watch four films outside of class, prior to class discussions
+- Prepare for the upcoming class by reading what was assigned and thinking of questions and comments
+- Complete five sets of exercises
+- Write three short essays
+- Prepare for their oral presentation

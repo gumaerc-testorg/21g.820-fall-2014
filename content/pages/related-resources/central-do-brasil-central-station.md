@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of resources about the film Central Station.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Related Resources
+parent_type: CourseSection
 parent_uid: ef2d07cc-784d-b741-628c-f172efdebf78
 title: Central do Brasil / Central Station
 uid: 20393b55-8df2-e171-2a3b-7863d124b704
