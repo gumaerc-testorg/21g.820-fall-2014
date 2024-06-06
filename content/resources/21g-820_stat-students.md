@@ -2,6 +2,7 @@
 content_type: resource
 description: Image showing the approximate number of students enrolled in the class.
 file: /courses/21g-820-portuguese-advanced-conversation-and-composition-fall-2014/14583dfb687721470633741070423636_21G-820_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''

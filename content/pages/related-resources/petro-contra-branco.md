@@ -20,5 +20,3 @@ Fiorin, José Luiz. "[A construção da identidade nacional Brasileira / The Con
 Sabóia, Evandro Finardi. ["Identidade e Cultura: Reflexões Sobre Auto Identificação Racial no Brasil." (PDF)](http://www.acaoeducativa.org.br/fdh/wp-content/uploads/2013/03/EvandroFSaboia.pdf)
 
 Hofbauer, Andreas. ["Raça, Cultura e Identidade e o "Racismo à Brasileira." (PDF)](https://andreashofbauer.files.wordpress.com/2011/08/rac3a7a-cultura-e-identidade-texto-publicac3a7c3a3o2-congr-ufscar.pdf)
-
-[Cores de Pele ue os brasileiros se atribuem](http://news.yahoo.com/136-variations-brazilian-skin-colors-080709377.html)
