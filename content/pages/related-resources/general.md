@@ -27,8 +27,6 @@ uid: 34496f6d-91da-80c7-7e89-1181e2d8a583
 
 [Jornais em português](http://www.jornaiserevistas.com/)
 
-[Verb conjugation](http://www.conjuga-me.net/)
-
 [Bilingual Portuguese-English dictionary](http://www.wordreference.com/)
 
 [Portuguese dictionary (Brazil)](http://www.dicionariodoaurelio.com/)
