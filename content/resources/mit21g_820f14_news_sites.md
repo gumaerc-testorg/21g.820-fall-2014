@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing a list of news sites in Portuguese for Brazil and
   Africa.
-file: /ol-ocw-studio-app/courses/21g-820-portuguese-advanced-conversation-and-composition-fall-2014/3b323dccba1c02c5824384441e0ac36d_MIT21G_820F14_News_sites.pdf
+file: /courses/21g-820-portuguese-advanced-conversation-and-composition-fall-2014/3b323dccba1c02c5824384441e0ac36d_MIT21G_820F14_News_sites.pdf
 file_size: 224873
 file_type: application/pdf
 learning_resource_types: []
