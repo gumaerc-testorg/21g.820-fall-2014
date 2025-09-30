@@ -10,10 +10,10 @@ title: Central do Brasil / Central Station
 uid: 20393b55-8df2-e171-2a3b-7863d124b704
 ---
 
-Fabricio Gianini. "Central do Brasil - Sub English." October 12, 2012. YouTube. Accessed 1988. [https://www.youtube.com/watch?v=LzlamJXfllM](https://www.youtube.com/watch?v=LzlamJXfllM)
+Fabricio Gianini. "Central do Brasil - Sub English." October 12, 2012. YouTube. Accessed 1988. {{% resource_link "c8ccdd72-74dc-4bd5-936b-553c56a8f40d" "https://www.youtube.com/watch?v=LzlamJXfllM" %}}
 
-Wood Jr., Thomaz. "[Analfabetismo functional](http://www.cartacapital.com.br/revista/758/analfabetismo-funcional-6202.html)." _Carta Capital,_ July 24, 2013.
+Wood Jr., Thomaz. "{{% resource_link "66823e86-bb1b-43fe-98f9-68d18892e0d9" "Analfabetismo functional" %}}." _Carta Capital,_ July 24, 2013.
 
-"[Brasil é o 8° país com maior número de analfabetos adultos, diz Unesco](http://g1.globo.com/educacao/noticia/2014/01/brasil-e-o-8-pais-com-mais-analfabetos-adultos-diz-unesco.html)." _GI_. January 29, 2014.
+"{{% resource_link "47cfd364-18ad-4db1-a6f8-b6713b3b23de" "Brasil é o 8° país com maior número de analfabetos adultos, diz Unesco" %}}." _GI_. January 29, 2014.
 
-Messias, Ana Regina. "[Um olhar sobre o Brasil através do filme Central do Brasil](http://www.academia.edu/15284710/UM_OLHAR_SOBRE_O_BRASIL_ATRAV%C3%89S_DO_FILME_CENTRAL_DO_BRASIL)." _Diálogos Ciência_ 8, no. 24 (2010).
+Messias, Ana Regina. "{{% resource_link "1c644f0e-0756-4097-aa8c-1423425d0d2d" "Um olhar sobre o Brasil através do filme Central do Brasil" %}}." _Diálogos Ciência_ 8, no. 24 (2010).
